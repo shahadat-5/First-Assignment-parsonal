@@ -45,7 +45,7 @@ body{
 /* Banner Section */
 
 .banner {
-    background-image: url(/imp/);
+    background-image: url(/imp/Hero-bg.png);
     background-position: center;
     background-repeat: no-repeat;
     height: 652px;
