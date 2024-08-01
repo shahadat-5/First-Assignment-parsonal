@@ -45,7 +45,7 @@ body{
 /* Banner Section */
 
 .banner {
-    background-image: url(/imp/Hero-bg.png);
+    background-image: url(../imp/Hero-bg.png);
     background-position: center;
     background-repeat: no-repeat;
     height: 652px;
@@ -229,7 +229,7 @@ body{
 	text-align: center;
 }
 .support-box {
-	background-image: url(/imp/handshake.jpg);
+	background-image: url(../imp/handshake.jpg);
 	background-position: center;
 	background-repeat: no-repeat;
 	padding: 48px 64px;
